@@ -3,6 +3,7 @@ using namespace std;
 
 int half_inverted_pyramid_stars()
 {
+    
     cout<<"Enter N:\n";
     int n, i, j;
     cin >> n;
