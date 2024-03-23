@@ -24,6 +24,7 @@ void half_rotated_inverted_pyramid_stars(){
         for (j=0; j<n; j++){
             if(j<n-i-1){
                 cout<<" ";
+                
             }
             else{
                 cout<<"*";
