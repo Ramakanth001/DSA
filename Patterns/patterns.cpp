@@ -11,7 +11,7 @@ int half_inverted_pyramid_stars()
         for (j=0 ; j<=n-1-i ;j++ ){
             cout << "*"; 
         }
-        cout<< "\n";
+        cout<< "\n"; 
     }
     return 0;
 }
@@ -22,7 +22,7 @@ void half_rotated_inverted_pyramid_stars(){
     cin >> n;
     // n=5;
     for (i=0; i<n; i++){
-        for (j=0; j<n; j++){
+        for (j=0; j<n;  j++){
             if(j<n-i-1){
                 cout<<" ";
 
