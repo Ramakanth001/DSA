@@ -7,5 +7,5 @@ void print(){
 
 int main(){
     print();
-    return 0;
+    return 1;
 }
