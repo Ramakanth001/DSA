@@ -199,6 +199,8 @@ int main(){
     // cin>>choice;
     choice = 9;
 
+    // Different types of patterns
+    
     if(choice ==1)
         half_pyramid_numbers();
         
